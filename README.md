@@ -7,6 +7,7 @@ di halaman ini terdapat tiga kolom, yaitu Nama, Nim, Tahun Lahir. saat tombol si
 ## tampil_data.dart : 
 Halaman ini menerima data dari halaman sebelumnya, lalu menampilkannya dengan kalimat seperti: “Nama saya Nurafina, NIM H1D023120, dan umur saya adalah 20 tahun.”
 
-## Dokumentasi : 
+## Dokumentasi : ![DOKUMENTASI](ss/form.png) ![DOKUMENTASI2](ss/tampil.png) 
+
 
 
